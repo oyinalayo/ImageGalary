@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+
+}
+.container{
+    max-width: 850px;
+    margin: auto;
+}
+img{
+    height: 20rem;
+    width: 20rem;
+    opacity: 1;
+    cursor: pointer;
+}
+.img_container{
+    float: left;
+    width: 25%;
+    padding: 10px;
+    overflow: hidden;
+}
+p{
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
